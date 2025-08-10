@@ -1,0 +1,21 @@
+{
+  "name": "feishu-bitable-plugins",
+  "version": "1.0.0",
+  "description": "飞书多维表格插件集合",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lark-base-open/js-sdk": "^0.5.0",
+    "element-plus": "^2.10.4",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
