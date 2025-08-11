@@ -1220,7 +1220,8 @@ onUnmounted(() => {
           />
         </div>
         
-        <div class="form-item">
+        <!-- 启用附件上传选项已隐藏，默认启用 -->
+        <!-- <div class="form-item">
           <label class="checkbox-label">
             <input 
               type="checkbox" 
@@ -1230,7 +1231,7 @@ onUnmounted(() => {
             <span class="checkbox-text">启用附件上传</span>
           </label>
           <div class="form-tip">启用后将图片URL上传到飞书云空间作为真实附件</div>
-        </div>
+        </div> -->
 
         <div class="form-item">
           <label>Cookie配置 <span class="required-mark">*</span></label>
